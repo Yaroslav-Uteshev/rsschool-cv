@@ -19,7 +19,7 @@ Currently, I am completing the RS-School course and also exploring the EPAM Camp
 
 In my free time, I go to the gym, play computer games, and study English (currently at B1 level). I have some experience as a system administrator in production.  
 
-**Strengths:** discipline, politeness, openness, determination  
+**Strengths:** discipline, politeness, openness, determination.
 
 ---
 
