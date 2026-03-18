@@ -25,7 +25,7 @@ In my free time, I go to the gym, play computer games, and study English (curren
 
 ### Skills
 - **HTML / CSS:** basic knowledge  
-- **JavaScript:** in progress  
+- **JavaScript:** in progress...
 
 ---
 
