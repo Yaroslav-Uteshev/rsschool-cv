@@ -1,3 +1,4 @@
 # rsschool-cv
 
-[My cv](https://github.com/Yaroslav-Uteshev/rsschool-cv/blob/gh-pages/cv.md)
+## My CV
+https://Yaroslav-Uteshev.github.io/rsschool-cv/
